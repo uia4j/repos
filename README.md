@@ -1,6 +1,6 @@
 # repos
 
-POM.mxl
+Add this repository in the POM.xml
 ```xml
 <repositories>
   <repository>
