@@ -1,6 +1,14 @@
 # repos
 
+Available packages:
+
+* [comm](https://github.com/uia4j/uia-comm)
+* [dao](https://github.com/uia4j/uia-dao)
+* [message](https://github.com/uia4j/uia-message)
+* [utils](https://github.com/uia4j/uia-utils)
+
 Add this repository in the POM.xml
+
 ```xml
 <repositories>
   <repository>
@@ -15,3 +23,4 @@ Add this repository in the POM.xml
   </repository>
 </repositories>
 ```
+
